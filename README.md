@@ -1,4 +1,6 @@
-# Eval-cc
+# Eval-cc Baptiste Ramos 
+
+## Command
 
 git clone https://github.com/dockersamples/example-voting-app.git
 
@@ -12,8 +14,12 @@ sudo kubectl get services
 
 Les pods doivent être en status running
 
-## capture 
+## Capture 
 
 ![Result app](result.png)
 
 ![Vote app](vote.png)
+
+## Schéma infra
+
+![infra](graph.png)
